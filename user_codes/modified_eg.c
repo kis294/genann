@@ -5,6 +5,7 @@
 
 int main(int argc, char *argv[])
 {
+    printf("Congrats, you hacked a library !\r\n");
     printf("GENANN example 1.\n");
     printf("Train a small ANN to the XOR function using backpropagation.\n");
 
